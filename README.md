@@ -44,4 +44,4 @@ A visual walkthrough of the NayePankh Dashboard interface, demonstrating the rea
 | **6** | **7** | **8** | **9** | **10** |
 | ![S6](contact_board.png) | ![S7](badges_for_donar.png) | ![S8](button_for_language.png) | ![S9](page_in_hindi.png) | ![S10](pagin_in_tamil.png) |
 
-> **Project Video:** [Watch the Demo Video Here](YOUR_VIDEO_URL_HERE)
+> **Project Video:** [Watch the Demo Video Here](nayepankh_dashboard)
